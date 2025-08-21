@@ -1,7 +1,7 @@
 
 const Sidebar = () => {
   return (
-    <aside className="w-[300px] sm:w-[200px]">
+    <aside className="w-[115px] sm:w-[200px]">
         <div className="border-y-1 border-gray-300 text-xs py-2 flex flex-col gap-1">
             <div className="flex justify-between">
                 <span className="font-bold">IDEAL FOR</span><span><img className="w-4" src="arrow.svg" alt="" /></span>
