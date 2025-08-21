@@ -57,7 +57,7 @@ const Dashboard = () => {
     </div>
     <section className="flex gap-2 w-[86%] mx-auto">
         <div className={sidebar}><Sidebar/></div>
-        <div className="flex flex-wrap justify-center w-[900px] pl-4">
+        <div className="flex flex-wrap justify-center w-[900px] sm:pl-4">
             {/* Products */}
             {products.map((product)=>{
                 return(
