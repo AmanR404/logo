@@ -5,15 +5,15 @@ This project demonstrates the process of turning design prototypes into producti
 
 ## 🚀 Features
 
--⚡ Built with **React** for fast rendering
--🎨 Styled using **Tailwind CSS** with utility-first approach
--📐 Pixel-perfect conversion from **Figma** design
--📱 Fully **responsive** across devices
--🔄 Reusable and modular component structure
--🌙 Easy to extend and customize
+-⚡ Built with **React** for fast rendering.
+-🎨 Styled using **Tailwind CSS** with utility-first approach.
+-📐 Pixel-perfect conversion from **Figma** design.
+-📱 Fully **responsive** across devices.
+-🔄 Reusable and modular component structure.
+-🌙 Easy to extend and customize.
 
 ## 🛠️ Tech Stack
 
--**React** – Component-based UI development
--**Tailwind CSS** – Utility-first styling
--**Figma** – Source design
+-**React** – Component-based UI development.
+-**Tailwind CSS** – Utility-first styling.
+-**Figma** – Source design.
